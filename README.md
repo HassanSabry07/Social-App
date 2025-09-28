@@ -1,1 +1,2 @@
-(https://social-app-gamma-three.vercel.app/login)live demo for social app
+social-app-gamma-three.vercel.app
+live demo for social app
